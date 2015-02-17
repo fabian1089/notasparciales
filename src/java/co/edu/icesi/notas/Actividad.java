@@ -7,7 +7,7 @@ import java.util.*;
 import co.edu.icesi.notas.control.ControlRecursos;
 import co.edu.icesi.notas.utilidades.OperacionesMatematicas;
 
-/**
+/** prueba de cambio en rama
  * Esta clase describe el objeto Actividad, el cual consiste en el último
  * elemento de la jerarquía en el esquema de un curso. Cada estructura pertenece
  * a una Categoría y representa una unidad dentro de este. Por ejemplo, si se
